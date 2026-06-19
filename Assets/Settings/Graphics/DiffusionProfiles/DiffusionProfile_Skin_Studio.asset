@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db799fbf2983fcf4ea924c6441ff0a29, type: 3}
+  m_Name: DiffusionProfile_Skin_Studio
+  m_EditorClassIdentifier: 
+  profile:
+    scatteringDistance: {r: 0.74540436, g: 0.32314324, b: 0.20155624, a: 1}
+    scatteringDistanceMultiplier: 20
+    transmissionTint: {r: 48.439217, g: 20.580393, b: 12.8, a: 1}
+    thicknessRemap: {x: 50, y: 400}
+    worldScale: 1
+    ior: 1.36
+    hash: 1078092797

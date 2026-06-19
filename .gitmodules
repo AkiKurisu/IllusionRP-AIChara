@@ -1,0 +1,10 @@
+[submodule "Packages/Chris"]
+	path = Packages/Chris
+	url = https://github.com/AkiKurisu/Chris.git
+	branch = main
+[submodule "Packages/IllusionRP"]
+	path = Packages/IllusionRP
+	url = https://github.com/AkiKurisu/IllusionRP.git
+[submodule "Packages/Ceres"]
+	path = Packages/Ceres
+	url = https://github.com/AkiKurisu/Ceres.git
